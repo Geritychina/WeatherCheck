@@ -35,4 +35,6 @@ weather-app/
 
 --
 
+❗ Don't forget to install node_modules locally! 🔺
+
 Made with love by Gergana ™
