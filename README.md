@@ -23,15 +23,15 @@ Simple React application for showing city weather forecast, using **free API** �
 
 # Project Structure 🗂
 
-weather-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── Weather.js
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-└── README.md
+weather-check/<br>
+├── public/<br>
+├── src/<br>
+│   ├── components/<br>
+│   │   └── Weather.js<br>
+│   ├── App.js<br>
+│   ├── App.css<br>
+│   └── index.js<br>
+└── README.md<br>
 
 --
 
