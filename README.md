@@ -1,6 +1,6 @@
 # 🌤 Weather Check
 
-Simple React application for showing city weather forecast, using **free API** от [wttr.in](https://wttr.in),.
+Simple React application for showing city weather forecast, using **free API** от [wttr.in](https://wttr.in).
 
 ---
 
