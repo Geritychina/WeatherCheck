@@ -17,7 +17,7 @@ Simple React application for showing city weather forecast, using **free API** �
 
 - ⚛️ React
 - 🎨 CSS 
-- 🌐 [wttr.in API](https://wttr.in/:help) — no API key needed
+- 🌐 [wttr.in API](https://wttr.in/:help) — no API key needed.
 
 ---
 
