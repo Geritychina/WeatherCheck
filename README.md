@@ -33,7 +33,6 @@ weather-check/<br>
 │   └── index.js<br>
 └── README.md<br>
 
---
 
 🔺Required Files: <br>
 --
